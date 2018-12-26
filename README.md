@@ -1,5 +1,7 @@
 # Crystals-game
 
+![](assets/images/crystals.png)
+
 Here's how the app works:
 
    * There are four crystals displayed as buttons on the page.
@@ -13,3 +15,4 @@ Here's how the app works:
    * The player loses if their score goes above the random number.
 
    * The game restarts whenever the player wins or loses.
+
